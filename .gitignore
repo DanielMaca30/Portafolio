@@ -1,0 +1,9 @@
+    # Ignorar todos los archivos .log
+    *.log
+
+    # Ignorar la carpeta node_modules/
+    node_modules/
+
+    # Ignorar archivos temporales de sistemas operativos
+    .DS_Store
+    Thumbs.db
